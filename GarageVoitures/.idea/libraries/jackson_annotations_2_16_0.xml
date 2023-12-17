@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.16.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jackson-annotations-2.16.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-core-2.16.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.16.0.jar!/" />
+      <root url="file://$USER_HOME$/Downloads" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/RPOO/RPOO/doc" />
+      <root url="file://$USER_HOME$/Downloads/tp2022/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/AssocTable (2)/AssocTable/src" />
+      <root url="file://$USER_HOME$/Downloads/CharArray/CharArray/src" />
+      <root url="file://$USER_HOME$/Downloads/Corrige_OpenedHashDict/OpenedHashDict/src" />
+      <root url="file://$USER_HOME$/Downloads/DynList/DynList/src" />
+      <root url="file://$USER_HOME$/Downloads/EnsembleSkeletons/EnsembleSkeletons/src" />
+      <root url="file://$USER_HOME$/Downloads/Ensemble/Ensemble/src" />
+      <root url="file://$USER_HOME$/Downloads/M1_INFO_IDL_TestDeLogiciels_TP1_enonce/M1_INFO_IDL_TestDeLogiciels_TP1_enonce/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez/2DGraphicCore/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez/Robi/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez/SParser/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez_Client/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez Client/2DGraphicCore/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez_Client/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez Client/RobiClient/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez_Client/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez Client/RobiServeur/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez_Client/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez Client/Robi/src" />
+      <root url="file://$USER_HOME$/Downloads/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez_Client/Misy_Harrison__Hissein_Ali__Enaud_Valentin__Joued_Moetez Client/SParser/src" />
+      <root url="file://$USER_HOME$/Downloads/OpenedHashDict (1)/OpenedHashDict_skeleton/src" />
+      <root url="file://$USER_HOME$/Downloads/Projet_SI_Mo/Robi2023_A_RENOMMER/2DGraphicCore/src" />
+      <root url="file://$USER_HOME$/Downloads/Projet_SI_Mo/Robi2023_A_RENOMMER/Robi/src" />
+      <root url="file://$USER_HOME$/Downloads/Projet_SI_Mo/Robi2023_A_RENOMMER/SParser/src" />
+      <root url="file://$USER_HOME$/Downloads/RPOO/RPOO/rpoo" />
+      <root url="file://$USER_HOME$/Downloads/RPOO/RPOO/tests" />
+      <root url="file://$USER_HOME$/Downloads/RobiServeur/src" />
+      <root url="file://$USER_HOME$/Downloads/Squelette-20230920" />
+      <root url="file://$USER_HOME$/Downloads/Squelette-20231002" />
+      <root url="file://$USER_HOME$/Downloads/TD1C (1)/src" />
+      <root url="file://$USER_HOME$/Downloads/TD2C (1)/src" />
+      <root url="file://$USER_HOME$/Downloads/TD2C (3)/src" />
+      <root url="file://$USER_HOME$/Downloads/TD3C/src" />
+      <root url="file://$USER_HOME$/Downloads/TP1 (3)/src" />
+      <root url="file://$USER_HOME$/Downloads/TP1C/src" />
+      <root url="file://$USER_HOME$/Downloads/TP1_Rev/src" />
+      <root url="file://$USER_HOME$/Downloads/TP1_correc/src" />
+      <root url="file://$USER_HOME$/Downloads/TP2 (3)/src" />
+      <root url="file://$USER_HOME$/Downloads/TP2 (4)/src" />
+      <root url="file://$USER_HOME$/Downloads/TP2C_nouveau/src" />
+      <root url="file://$USER_HOME$/Downloads/TP3 (1)/src" />
+      <root url="file://$USER_HOME$/Downloads/TP3C/src" />
+      <root url="file://$USER_HOME$/Downloads/compi" />
+      <root url="file://$USER_HOME$/Downloads/compilation/compilation" />
+      <root url="file://$USER_HOME$/Downloads/compilation/compilation/TP2ex1" />
+      <root url="file://$USER_HOME$/Downloads/compilation/compilation/Tp2Ex2" />
+      <root url="file://$USER_HOME$/Downloads/compilation/compilation/tp1" />
+      <root url="file://$USER_HOME$/Downloads/ftp/ftp/src" />
+      <root url="file://$USER_HOME$/Downloads/projet_final/untitled/src" />
+      <root url="file://$USER_HOME$/Downloads/projet_ihm2/ftp/src" />
+      <root url="file://$USER_HOME$/Downloads/projet_ihm/ftp/src" />
+      <root url="file://$USER_HOME$/Downloads/simulationfourmiliere/simulationfourmiliere/src" />
+      <root url="file://$USER_HOME$/Downloads/tp2022/src" />
+      <root url="file://$USER_HOME$/Downloads/tp2023/src" />
+      <root url="file://$USER_HOME$/Downloads/tp2023_Moetez_JAOUED" />
+      <root url="file://$USER_HOME$/Downloads/tp5_2/TP Algo A_-20221026/algoAStarCubes/src" />
+      <root url="file://$USER_HOME$/Downloads/tp5_2/TP Algo A_-20221026/algoAStarVoyComm/src/algoAStar" />
+      <root url="file://$USER_HOME$/Downloads" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" type="SOURCES" />
+  </library>
+</component>
