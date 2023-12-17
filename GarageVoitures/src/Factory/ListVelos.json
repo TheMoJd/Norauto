@@ -1,0 +1,38 @@
+[
+  {
+    "modele": "4",
+    "marque": "Golf",
+    "pneu": {
+      "largeur": 24,
+      "contientChambre": true,
+      "marque": "Michelin"
+    },
+    "pneuAr": {
+      "largeur": 24,
+      "contientChambre": true,
+      "marque": "Michelin"
+    },
+    "batterie": {
+      "puissance": 500,
+      "marque": "Duracell"
+    }
+  },
+  {
+    "modele": "Route Speedster",
+    "numSerie": 1002,
+    "pneuAv": {
+      "largeur": 22,
+      "contientChambre": false,
+      "marque": "Continental"
+    },
+    "pneuAr": {
+      "largeur": 22,
+      "contientChambre": false,
+      "marque": "Continental"
+    },
+    "batterie": {
+      "puissance": 450,
+      "marque": "Energizer"
+    }
+  }
+]
